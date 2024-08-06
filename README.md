@@ -1,5 +1,5 @@
 # Real-Time Rental Property Data Scraper for Ho Chi Minh City
-![system_architecture.png](image/system_architecture.png.png)
+![system_architecture.png](/image/system_architecture.png.png)
 
 This project aims to scrape real-time rental property data from Ho Chi Minh City using Playwright with Python, process and store the data using Kafka and Spark into a Cassandra database, and visualize the data using a Streamlit dashboard.
 
